@@ -1,10 +1,10 @@
 {"nodes":
-[{'id': 0, 'name': 'analytics.cluster', 'value': 0},
-{'id': 1, 'name': 'analytics.graph', 'value': 0},
-{'id': 2, 'name': 'analytics.optimization', 'value': 0},
-{'id': 3, 'name': 'animate', 'value': 0},
-{'id': 4, 'name': 'animate.interpolate', 'value': 0},
-{'id': 5, 'name': 'data.converters', 'value': 0}],
+[{"id": 0, "name": "analytics.cluster", "value": 0},
+{"id": 1, "name": "analytics.graph", "value": 0},
+{"id": 2, "name": "analytics.optimization", "value": 0},
+{"id": 3, "name": "animate", "value": 0},
+{"id": 4, "name": "animate.interpolate", "value": 0},
+{"id": 5, "name": "data.converters", "value": 0}],
 "links":[
 {"source":0,"target":0,"sourceWeight":24,"targetWeight":24},
 {"source":0,"target":1,"sourceWeight":6,"targetWeight":6},
